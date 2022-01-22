@@ -1,4 +1,4 @@
-package model.entities;
+package exampleCourse.model.entities;
 
 import java.util.Date;
 
@@ -8,9 +8,6 @@ public class CarRental {
 
     private Vehicle vehicle;
     private Invoice invoice;
-
-    public CarRental() {
-    }
 
     public CarRental(Date start, Date finish, Vehicle vehicle) {
         this.start = start;

@@ -1,9 +1,9 @@
-package application;
+package exampleCourse.application;
 
-import model.entities.CarRental;
-import model.entities.Vehicle;
-import model.services.BrazilTaxService;
-import model.services.RentalService;
+import exampleCourse.model.entities.CarRental;
+import exampleCourse.model.entities.Vehicle;
+import exampleCourse.model.services.BrazilTaxService;
+import exampleCourse.model.services.RentalService;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

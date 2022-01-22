@@ -1,7 +1,7 @@
-package model.services;
+package exampleCourse.model.services;
 
-import model.entities.CarRental;
-import model.entities.Invoice;
+import exampleCourse.model.entities.CarRental;
+import exampleCourse.model.entities.Invoice;
 
 public class RentalService {
     private Double pricePerDay;
